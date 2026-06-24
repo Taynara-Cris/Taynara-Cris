@@ -27,12 +27,12 @@ align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-o
 
 ## 🎯 Objetivo
 
-Busco oportunidades na área de Tecnologia da Informação para desenvolver minhas habilidades em programação, suporte técnico e desenvolvimento de sistemas, contribuindo com dedicação, organização e vontade de aprender.
+Atuar na área de TI. Busco contribuir com dedicação, responsabilidade e proatividade, enquanto desenvolvo minhas habilidades e construo minha trajetória profissional.
 
 ## 📫 Contato
 
-- LinkedIn: www.linkedin.com/in/taynara-cristina-nunes-bento
-- GitHub: github.com/seuusuario
+- LinkedIn: www.linkedin.com/in/taynara-cristina-nunes
+- E-mail: dev.taynarac@gmail.com
 
 ---
 
