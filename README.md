@@ -1,16 +1,10 @@
-# Olá, eu sou Taynara Cristina Nunes Bento 👋
+# 👩🏻‍💻 Taynara Cristina Nunes
 
 🎓 Estudante de Ciência da Computação
 
 💻 Desenvolvedora em formação
 
 🚀 Focada em aprendizado contínuo e evolução na área de tecnologia
-
----
-
-## 👩‍💻 Sobre mim
-
-Atualmente estou cursando Ciência da Computação e desenvolvendo projetos acadêmicos e pessoais para aprimorar minhas habilidades. Busco minha primeira oportunidade na área de TI.
 
 ---
 
