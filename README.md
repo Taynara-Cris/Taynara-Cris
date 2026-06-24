@@ -1,38 +1,53 @@
 # Olá, eu sou Taynara Cristina Nunes Bento 👋
 
-## 👩‍💻 Sobre mim
-
 🎓 Estudante de Ciência da Computação
 
-💡 Apaixonada por tecnologia, desenvolvimento de software e resolução de problemas.
+💻 Desenvolvedora em formação
 
-🚀 Em constante aprendizado e desenvolvimento de projetos para aprimorar minhas habilidades.
+🚀 Focada em aprendizado contínuo e evolução na área de tecnologia
 
-## 🤖 Linguagens e Tecnologias
+---
 
-<p 
-align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" alt="C"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" alt="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" alt="SQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="30" height="30" alt="Oracle PL/SQL"/> 
-</p>
+## 👩‍💻 Sobre mim
+
+Atualmente estou cursando Ciência da Computação e desenvolvendo projetos acadêmicos e pessoais para aprimorar minhas habilidades. Busco minha primeira oportunidade na área de TI.
+
+---
+
+## 💻 Ferramentas e Sistemas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="30" height="30" alt="Oracle PL/SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30" height="30" alt="Windows"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git"/>
 
 
+---
 ## 📚 Atualmente Estudando
 
-- Estruturas de Dados
-- Desenvolvimento Web
-- Banco de Dados
-- Programação Orientada a Objetos
-- React
-- Oracle PL/SQL
+* Programação Orientada a Objetos
+* Desenvolvimento Web
+* Automatização com IA
+* Banco de Dados
 
+---
 
-## 🎯 Objetivo
-
-Atuar na área de TI. Busco contribuir com dedicação, responsabilidade e proatividade, enquanto desenvolvo minhas habilidades e construo minha trajetória profissional.
 
 ## 📫 Contato
 
-- LinkedIn: www.linkedin.com/in/taynara-cristina-nunes
-- E-mail: dev.taynarac@gmail.com
+💼 LinkedIn:www.linkedin.com/in/taynara-cristina-nunes
+
+📧 E-mail: dev.taynarac@gmail.com
 
 ---
 
